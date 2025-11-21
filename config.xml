@@ -1,0 +1,11 @@
+<config>
+  <anton_xml_file />
+  <anton_outputpath>output-schild</anton_outputpath>
+  <csv_file></csv_file>
+  <csv_delimiter>;</csv_delimiter>
+  <pdf_outputpath>output-pdf</pdf_outputpath>
+  <pdf_antonlink>https://www.anton.app</pdf_antonlink>
+  <pdf_einzeln>ja</pdf_einzeln>
+  <pdf_onedoc>nein</pdf_onedoc>
+  <pdf_schoolgroup>1</pdf_schoolgroup>
+</config>
